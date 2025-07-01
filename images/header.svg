@@ -183,7 +183,7 @@ g.typingUnderline rect {
 <text font-family="Courier New" font-size=".22em" fill="white"
       font-weight="bold" letter-spacing="2">
   <textPath xlink:href="#nameTyping" >
-      HAMZA TARIQ
+      Hassaan Anjum
   </textPath>
 </text>
 
@@ -201,7 +201,7 @@ g.typingUnderline rect {
 <text x="64" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
-      AI, Flutter &amp; 3D  Developer. 
+      Flutter &amp; Developer. 
   </textPath>
 </text>
 
