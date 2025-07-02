@@ -207,7 +207,12 @@ g.typingUnderline rect {
 
 <text x="2" y="12" font-family="Helvetica" font-size=".22em" 
       fill="#AAA" font-weight="bold"> 
-      Hello You!
+      Hi there!
+</text>
+
+<text x="22" y="12" font-family="Helvetica" font-size=".22em"
+      fill="#AAA" font-weight="bold"> 
+      How are you doing?
 </text>
 
  
