@@ -1,26 +1,20 @@
 <img src="images/header.svg" alt="Header Image">
 
-## 👋 About Me | Flutter & AI Developer
+## 👋 About Me | Flutter Developer
 
 <picture> <img align="right" src="images/Right_Side.gif" width = 250px></picture>
-  <a href="files/Hamza_Tariq_Resume.pdf" download>
+  <a href="files/HassaanAnjum_CV.pdf" download>
     <img src="https://img.shields.io/badge/View_CV-2CA5E0?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV">
   </a>
   <a href="https://github.com/Hmmza-tariq/Flutter-Projects">
     <img src="https://img.shields.io/badge/View_Projects-2CA5E0?style=for-the-badge&logo=github&logoColor=white" alt="View Other Project">
   </a>
 
-🚀 **Flutter & AI Specialist:** Crafting high-performance, cross-platform mobile apps infused with intelligent AI features. Passionate about building user-centric solutions.
+🚀 **Flutter Expert** Crafting high-performance, cross-platform mobile apps. Passionate student aiming to design innovative applications.
 
-💼 **Founder of [Hexagone](https://theHexagone.com)** | **Co-Founder of [GreenEats](greeneats.pk)**
+💡 **Key Skills:** Flutter, Dart, UI/UX, Python.
 
-🏢 **Level 2 Seller on Fiverr, 50+ projects with 4.8 Rating**
-
-💡 **Key Skills:** Flutter, Dart, AI/ML (LLMs), Blender, Python.
-
-🎓 **Computer Engineer (NUST):**
-
-✨ Let's connect and build something amazing!
+✨ Contact me to make your ideas into reality
 
 
 
