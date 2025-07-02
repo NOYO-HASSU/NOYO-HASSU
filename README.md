@@ -1,9 +1,15 @@
 <img src="images/header.svg" alt="Header Image">
 
+<picture> <img align="right" src="images/Right_Side.gif" width = 250px></picture>
+  <a href="files/HassaanAnjumCV.pdf" download>
+    <img src="https://img.shields.io/badge/View_CV-2CA5E0?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV">
+  </a>
+  <a href="https://github.com/NOYO_HASSU/Flutter-Projects">
+    <img src="https://img.shields.io/badge/View_Projects-2CA5E0?style=for-the-badge&logo=github&logoColor=white" alt="View Other Project">
+  </a>
+
 # 💫 About Me:
 Hi, I'm Hassaan, a Skilled Flutter Full Stack Developer<br>I specialize in creating innovative software solutions tailored<br>to meet diverse client needs. My expertise spans <br>across developing comprehensive software for PC, <br>cross platform Android, iOS, and web applications. <br>With a commitment to excellence and a vision for the future.
-
-🚀 **Flutter Expert** Crafting high-performance, cross-platform mobile apps. Passionate student aiming to design innovative applications.
 
 💡 **Key Skills:** Flutter, Dart, UI/UX, Python.
 
