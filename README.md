@@ -9,7 +9,11 @@
   </a>
 
 # 💫 About Me:
-Hi, I'm Hassaan, a Skilled Flutter Full Stack Developer<br>I specialize in creating innovative software solutions tailored<br>to meet diverse client needs. My expertise spans <br>across developing comprehensive software for PC, <br>cross platform Android, iOS, and web applications. <br>With a commitment to excellence and a vision for the future.
+Hi, I'm Hassaan Anjum - a passionate and skilled Flutter full-stack developer with a focus on building optimized, responsive, and cross-platform applications for Android, iOS, desktop, and web.
+
+I specialize in crafting clean, minimal UIs and delivering efficient, scalable software tailored to real-world needs. I’m a strong problem-solver who can think through alternatives, adapt quickly, and collaborate effectively in team environments.
+
+I’ve developed complete solutions that integrate cloud services, databases, and modern design principles. I’m continuously learning and evolving - currently expanding my skills in cloud computing and AI-driven development..
 
 💡 **Key Skills:** Flutter, Dart, UI/UX, Python.
 
