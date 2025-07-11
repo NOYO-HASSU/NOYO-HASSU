@@ -15,7 +15,7 @@ I specialize in crafting clean, minimal UIs and delivering efficient, scalable s
 
 I’ve developed complete solutions that integrate cloud services, databases, and modern design principles. I’m continuously learning and evolving - currently expanding my skills in cloud computing and AI-driven development..
 
-💡 **Key Skills:** Flutter, Dart, UI/UX, Python.
+💡 **Key Skills:** Flutter, Dart, UI/UX, Python, CleanUI/UX, MVVM,MVC architecture, Rest API's, SQlite.
 
 ✨ Contact me to make your ideas into reality
 
