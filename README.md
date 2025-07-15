@@ -23,7 +23,7 @@ I specialize in crafting clean, minimal UIs and delivering efficient, scalable s
 
 - Familiar with Git/GitHub for version control and using custom Flutter libraries
 
-- Optimizing apps perforamnce with Flutter engine.
+- Optimizing apps performance with Flutter engine.
 
 - Experience in Firebase Auth, FCM, Cloud storage, Real Time Database.
 
