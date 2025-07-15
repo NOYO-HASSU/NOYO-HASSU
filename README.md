@@ -13,10 +13,24 @@ Hi, I'm Hassaan Anjum - a passionate and skilled Flutter full-stack developer wi
 
 I specialize in crafting clean, minimal UIs and delivering efficient, scalable software tailored to real-world needs. I’m a strong problem-solver who can think through alternatives, adapt quickly, and collaborate effectively in team environments.
 
-I’ve developed complete solutions that integrate cloud services, databases, and modern design principles. I’m continuously learning and evolving - currently expanding my skills in cloud computing and AI-driven development..
+ I’ve built multiple mobile, desktop, and web applications using Flutter, and have strong command over architectural patterns like MVVM and MVC for clean and scalable codebases.
+ 
+💡 **My Key Skills include:
 
-💡 **Key Skills:** Flutter, Dart, UI/UX, Python, CleanUI/UX, MVVM,MVC architecture, Rest API's, SQlite.
+- Proficient in state management.
 
+- Experience with RESTful APIs, networking, and SQLite for offline-first apps
+
+- Familiar with Git/GitHub for version control and using custom Flutter libraries
+
+- Optimizing apps perforamnce with Flutter engine.
+
+- Experience in Firebase Auth, FCM, Cloud storage, Real Time Database.
+
+- Worked with Syncfusion Flutter widgets to create Detailed and beautiful applications.
+
+- Fast learner, strong problem-solving mindset, and a team player
+  
 ✨ Contact me to make your ideas into reality
 
 <br>
