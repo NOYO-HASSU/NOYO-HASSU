@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/View_Projects-2CA5E0?style=for-the-badge&logo=github&logoColor=white" alt="View Other Project">
   </a>
 <a href="https://github.com/NOYO-HASSU/Projects.git">
-    <img src="https://img.shields.io/badge/View_Projects-2CA5E0?style=for-the-badge&logo=github&logoColor=white" alt="My Certifications">
+    <img src="https://img.shields.io/badge/View_Certifications-2CA5E0?style=for-the-badge&logo=document&logoColor=white" alt="My Certifications">
   </a>
 
 # 💫 About Me:
