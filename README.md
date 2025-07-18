@@ -7,6 +7,9 @@
   <a href="https://github.com/NOYO-HASSU/Projects.git">
     <img src="https://img.shields.io/badge/View_Projects-2CA5E0?style=for-the-badge&logo=github&logoColor=white" alt="View Other Project">
   </a>
+<a href="https://github.com/NOYO-HASSU/Projects.git">
+    <img src="https://img.shields.io/badge/View_Projects-2CA5E0?style=for-the-badge&logo=github&logoColor=white" alt="My Certifications">
+  </a>
 
 # 💫 About Me:
 Hi, I'm Hassaan Anjum - a passionate and skilled Flutter full-stack developer with a focus on building optimized, responsive, and cross-platform applications for Android, iOS, desktop, and web.
